@@ -7,18 +7,15 @@ img {
 
 main {
   padding: 1rem;
-  width: fit-content;
-  margin: auto;
-  width: 100%;
   max-width: 25rem;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 p {
@@ -47,6 +44,7 @@ body {
 
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 footer {
