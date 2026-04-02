@@ -7,7 +7,7 @@ img {
 
 main {
   padding: 1rem;
-  max-width: 25rem;
+  max-width: 40rem;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h1, h2 {
   margin: 0 0 1rem 0;
 }
 
-li {
+ul > li {
   list-style-type: square;
 }
 
@@ -59,4 +59,5 @@ footer {
   font-size: 20px;
   --text: #f7f7f7;
   --background: #020202;
+  --highlight: #121212;
 }
